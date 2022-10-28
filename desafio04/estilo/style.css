@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px;
+}
+
+button {
+    background-image: linear-gradient(to bottom, gray, rgba(218, 216, 216, 0.616));
+    width: 310px;
+    height: 12vh;
+    font-size: 1.5em;
+    display: block;
+    margin: auto;
+    font-weight: bold;
+    cursor: pointer;
+
+    
+
+}
